@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.b001c674.css",
-    "main.js": "/shopping-cart/static/js/main.bee74a3e.js",
-    "index.html": "/shopping-cart/index.html",
-    "main.b001c674.css.map": "/shopping-cart/static/css/main.b001c674.css.map",
-    "main.bee74a3e.js.map": "/shopping-cart/static/js/main.bee74a3e.js.map"
+    "main.css": "/learn-redux/static/css/main.b001c674.css",
+    "main.js": "/learn-redux/static/js/main.bee74a3e.js",
+    "index.html": "/learn-redux/index.html",
+    "main.b001c674.css.map": "/learn-redux/static/css/main.b001c674.css.map",
+    "main.bee74a3e.js.map": "/learn-redux/static/js/main.bee74a3e.js.map"
   },
   "entrypoints": [
     "static/css/main.b001c674.css",
