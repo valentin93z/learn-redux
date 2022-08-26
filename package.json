@@ -1,6 +1,6 @@
 {
-  "homepage": "http://valentin93z.github.io/shopping-cart",
-  "name": "shopping-cart",
+  "homepage": "http://valentin93z.github.io/learn-redux",
+  "name": "learn-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
